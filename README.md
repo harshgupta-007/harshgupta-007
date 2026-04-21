@@ -81,8 +81,25 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshgupta-007&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshgupta-007&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=2&column=4" alt="Trophies"/>
 </div>
+
+> 💡 If trophies don't load, try refreshing — the service can occasionally be slow.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshgupta-007/harshgupta-007/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshgupta-007/harshgupta-007/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/harshgupta-007/harshgupta-007/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+> 💡 To enable the snake animation, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` — see setup instructions below.
 
 ---
 
@@ -97,10 +114,10 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshgupta007/">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hgpt999@gmail.com">
+  <a href="mailto:YOUR-EMAIL-HERE">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/harshgupta-007">
