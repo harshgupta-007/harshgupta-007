@@ -97,10 +97,10 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/harshgupta007/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL-HERE">
+  <a href="mailto:hgpt999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/harshgupta-007">
