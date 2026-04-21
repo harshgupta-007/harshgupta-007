@@ -78,13 +78,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshgupta-007&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=2&column=4" alt="Trophies"/>
-</div>
 
-> 💡 If trophies don't load, try refreshing — the service can occasionally be slow.
+| 🏅 Achievement | Detail |
+|---------------|--------|
+| 🐍 MCP Protocol Builder | Built a remote MCP server — cutting edge agentic tech |
+| 🤖 AI Agent Developer | Gemini-powered SCADA agent for industrial data |
+| ⚡ Industrial AI Specialist | 4+ years of SCADA + Data Science experience |
+| 📊 Dashboard Creator | Multiple real-time Streamlit apps in production |
+| 🧠 Capstone Completer | Agents Intensive Program graduate |
+| 🔬 Open Source Contributor | 19 public repositories on GitHub |
+
+</div>
 
 ---
 
